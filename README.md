@@ -1,26 +1,26 @@
 # odin-project-linked-list
 
-showcases two different classes
+## showcases two different classes
 
-one class to create a node
+### one class to create a node
 
 node includes
-value
-nextNode value
+-value
+-nextNode value
 
-one class to create a linked list
+### one class to create a linked list
 
 linked list includes
-append
-prepend
-size
-getHead
-getTail
-at
-pop
-contains
-find
-toString
-insertAt
-removeAt
+-append
+-prepend
+-size
+-getHead
+-getTail
+-at
+-pop
+-contains
+-find
+-toString
+-insertAt
+-removeAt
 
